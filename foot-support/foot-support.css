@@ -1,0 +1,64 @@
+
+.container {
+    padding-top: 10px;
+}
+
+#claret {
+    color: white;
+    background-color: #801638;
+}
+
+#yellow {
+    color: black;
+    background-color: #FBEE23;
+}
+    
+
+#orange, #other, #lions {
+    color: white;
+    background-color: #F5A12D;
+}
+
+#red, #big-red, #underdog-red, #red-spend, #red-sustain {
+    color: white;
+    background-color: #EA2212;
+}
+
+#blue, #big-blue {
+    color: white;
+    background-color: #034694;
+}
+
+
+#search-by-animal, #underdog-blue {
+    color: white;
+    background-color: #5CBFEB;
+}
+
+#black-white, #wings {
+    color: white;
+    background-color: black;
+}
+
+#mammals {
+    color: #3a3f42;
+    background-color: #94f3fc;
+}
+
+#cherries {
+    color: white;
+    background-color: #E62333;
+}
+
+#pottery {
+    color: white;
+    background-color: #7E5B33; 
+}
+
+
+@media (max-width: 500px) {
+  .btn {
+    margin-bottom: 7px;
+  }
+}
+
